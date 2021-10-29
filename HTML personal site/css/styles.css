@@ -1,0 +1,20 @@
+body {
+    background-color: mistyrose;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lavenderblush;
+    border-width: 10px;
+    width: 5%;
+
+}
+
+h1 {
+    color: lightcoral;
+}
+
+h3 {
+    color: lightcoral;
+}
